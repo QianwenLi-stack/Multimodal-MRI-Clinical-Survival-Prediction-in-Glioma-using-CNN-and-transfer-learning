@@ -25,4 +25,7 @@ Contributors: Qianwen Li, Ninghui Hao, Shuhua Xu, Taiyang chen
     - [Steps for our final model](#steps)
     - [Conclusion](#conclusion)
     - [Discussion](#discussion)
-    - 
+
+  ### Flow Chart of our model<div id='flow_chart'></div>
+![Model framework.png]
+  
