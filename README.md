@@ -27,5 +27,5 @@ Contributors: Qianwen Li, Ninghui Hao, Shuhua Xu, Taiyang chen
     - [Discussion](#discussion)
 
   ### Flow Chart of our model<div id='flow_chart'></div>
-![Model framework.png]
+![Model framework](Model framework.png)
   
